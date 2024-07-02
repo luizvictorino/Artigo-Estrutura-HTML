@@ -6,7 +6,7 @@
 ## Introdução
 Construir um site é como montar um quebra-cabeça. Cada peça precisa estar no lugar certo para criar uma imagem clara e completa. No mundo do desenvolvimento web, o HTML é a base desse quebra-cabeça. Sem uma estrutura bem definida, o site pode se tornar confuso e difícil de usar, tanto para os visitantes quanto para os desenvolvedores. Neste artigo, vamos explorar a importância de uma boa estrutura em HTML e como ela pode transformar um site bagunçado em uma experiência agradável e organizada para todos.
 
-![alt text](./image-3.png)
+![alt text](./images/image-3.png)
 
 **HTML** é como o esqueleto de um site. Ele organiza tudo, como um livro de histórias. Cada página de um site é feita com HTML, e ele diz onde cada coisa vai ficar, como imagens, textos e links.
 
@@ -82,7 +82,7 @@ Se o HTML é bagunçado, o site fica como um quarto desarrumado: difícil de ach
 </html>
 ```
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 Quando o HTML é bem feito, as pessoas encontram o que precisam rápido e fácil. É como ler um livro com capítulos e títulos claros, sem confusão.
 
@@ -227,7 +227,7 @@ Alguns sites legais para aprender HTML são W3Schools, MDN Web Docs, Codecademy,
 ```
 
 
-![alt text](image.png)
+![alt text](./images/image.png)
 ## Resumo da Importância de uma Boa Estrutura HTML
 Um HTML bem estruturado é a chave para um site organizado e fácil de usar. Ele melhora a experiência do usuário, facilita o trabalho dos desenvolvedores e ajuda na acessibilidade.
 
